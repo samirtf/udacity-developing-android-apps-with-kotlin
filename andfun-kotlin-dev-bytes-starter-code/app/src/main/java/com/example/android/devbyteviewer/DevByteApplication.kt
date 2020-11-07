@@ -25,6 +25,7 @@ import timber.log.Timber
  */
 class DevByteApplication : Application() {
 
+
     /**
      * onCreate is called before the first screen is shown to the user.
      *

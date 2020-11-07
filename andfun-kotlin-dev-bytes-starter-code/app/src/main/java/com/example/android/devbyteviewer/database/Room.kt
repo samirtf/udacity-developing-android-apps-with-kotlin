@@ -45,4 +45,5 @@ fun getDatabase(context: Context): VideosDatabase {
                     "videos").build()
         }
     }
+    return INSTANCE
 }
